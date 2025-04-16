@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/cyh92/Livelist/refs/heads/main/CCTV.m3u
-
+#https://raw.githubusercontent.com/cyh92/Livelist/refs/heads/main/CCTV.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 #自用保留源
 #https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
 

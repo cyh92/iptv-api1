@@ -3,7 +3,6 @@ CCTV-1香港版,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/st
 CCTV-1_综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-2_财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3_综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4_中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4_中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-5_体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-6_电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -18,7 +17,6 @@ CCTV-14_少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-1HD,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-2HD,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3HD,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4HD,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4HD,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-5HD,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-6HD,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -33,7 +31,6 @@ CCTV-14HD,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-1 综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-2 财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3 综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4 中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4 中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-5 体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-6 电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -48,7 +45,6 @@ CCTV-14 少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -63,7 +59,6 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -160,4 +155,4 @@ CCTV高尔夫球,url
 CCTV女性时尚,url
 
 🕘️更新时间,#genre#
-2025-04-19 11:25:02,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-19 13:29:02,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

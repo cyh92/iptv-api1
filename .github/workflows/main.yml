@@ -66,8 +66,9 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: 📂 Sync files 
+        run: mv ./output/cctv.txt ./output/list.txt
+      - uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER  }}
           username: ${{ secrets.FTP_USERNAME  }}

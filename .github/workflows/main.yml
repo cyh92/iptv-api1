@@ -74,3 +74,9 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD  }}
           local-dir: ./output/
           server-dir: /htdocs/
+          exclude: |
+            **/ipv4/**
+            **/ipv6/**
+            **/log/**
+            cctv.m3u
+            sort.log

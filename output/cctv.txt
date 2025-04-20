@@ -231,4 +231,4 @@ CCTV高尔夫球,url
 CCTV女性时尚,url
 
 🕘️更新时间,#genre#
-2025-04-20 07:46:51,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-21 03:09:44,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

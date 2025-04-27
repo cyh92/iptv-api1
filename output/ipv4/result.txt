@@ -173,6 +173,8 @@ CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 
 付费频道,#genre#
 
+央卫咪咕,#genre#
+
 🈳无结果频道,#genre#
 港台电视33,url
 CCTV-5_体育,url
@@ -253,6 +255,23 @@ CCTV老故事,url
 CCTV中学生,url
 CCTV高尔夫球,url
 CCTV女性时尚,url
+CCTV-01咪咕,url
+CCTV-02咪咕,url
+CCTV-03咪咕,url
+CCTV-04咪咕,url
+CCTV-05咪咕,url
+CCTV-06咪咕,url
+CCTV-07咪咕,url
+CCTV-08咪咕,url
+CCTV-09咪咕,url
+CCTV-10咪咕,url
+CCTV-11咪咕,url
+CCTV-12咪咕,url
+CCTV-13咪咕,url
+CCTV-14咪咕,url
+CCTV-15咪咕,url
+CCTV-16咪咕,url
+CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-04-27 03:07:47,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-27 22:19:25,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

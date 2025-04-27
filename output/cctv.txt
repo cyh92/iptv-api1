@@ -173,6 +173,25 @@ CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 
 付费频道,#genre#
 
+央卫咪咕,#genre#
+CCTV-01咪咕,http://goo.bkpcp.top/mg/cctv1
+CCTV-02咪咕,http://goo.bkpcp.top/mg/cctv2
+CCTV-03咪咕,http://goo.bkpcp.top/mg/cctv3
+CCTV-04咪咕,http://goo.bkpcp.top/mg/cctv4
+CCTV-05咪咕,http://goo.bkpcp.top/mg/cctv5
+CCTV-06咪咕,http://goo.bkpcp.top/mg/cctv6
+CCTV-07咪咕,http://goo.bkpcp.top/mg/cctv7
+CCTV-08咪咕,http://goo.bkpcp.top/mg/cctv8
+CCTV-09咪咕,http://goo.bkpcp.top/mg/cctv9
+CCTV-10咪咕,http://goo.bkpcp.top/mg/cctv10
+CCTV-11咪咕,http://goo.bkpcp.top/mg/cctv11
+CCTV-12咪咕,http://goo.bkpcp.top/mg/cctv12
+CCTV-13咪咕,http://goo.bkpcp.top/mg/cctv13
+CCTV-14咪咕,http://goo.bkpcp.top/mg/cctv14
+CCTV-15咪咕,http://goo.bkpcp.top/mg/cctv15
+CCTV-16咪咕,https://yunmei.tv/main/cctv-16.m3u8
+CCTV-17咪咕,http://goo.bkpcp.top/mg/cctv17
+
 🈳无结果频道,#genre#
 港台电视33,url
 CCTV-5_体育,url
@@ -255,4 +274,4 @@ CCTV高尔夫球,url
 CCTV女性时尚,url
 
 🕘️更新时间,#genre#
-2025-04-27 03:07:47,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-27 22:19:25,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

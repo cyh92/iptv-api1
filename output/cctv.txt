@@ -3,218 +3,357 @@ CCTV-1香港版,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/st
 CCTV-1_综合,http://219.154.185.68:4022/rtp/225.1.4.73:1102
 CCTV-1_综合,http://42.227.88.121:4022/rtp/225.1.4.73:1102
 CCTV-1_综合,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1_综合,http://goo.bkpcp.top/mg/cctv1
+CCTV-1_综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2_财经,http://219.154.185.68:4022/rtp/225.1.4.74:1103
 CCTV-2_财经,http://42.227.88.121:4022/rtp/225.1.4.74:1103
 CCTV-2_财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2_财经,http://goo.bkpcp.top/mg/cctv2
+CCTV-2_财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3_综艺,http://219.154.185.68:4022/rtp/225.1.4.50:1079
 CCTV-3_综艺,http://42.227.88.121:4022/rtp/225.1.4.50:1079
+CCTV-3_综艺,http://goo.bkpcp.top/mg/cctv3
+CCTV-3_综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4_中文国际,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4_中文国际,http://goo.bkpcp.top/mg/cctv4
+CCTV-4_中文国际,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5_体育,http://goo.bkpcp.top/mg/cctv5
+CCTV-5_体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+_体育赛事,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV-5+_体育赛事,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV-5+_体育赛事,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+_体育赛事,http://goo.bkpcp.top/mg/cctv5p
+CCTV-5+_体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6_电影,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6_电影,http://goo.bkpcp.top/mg/cctv6
+CCTV-6_电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7_国防军事,http://219.154.185.68:4022/rtp/225.1.4.76:1105
 CCTV-7_国防军事,http://42.227.88.121:4022/rtp/225.1.4.76:1105
 CCTV-7_国防军事,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7_国防军事,http://goo.bkpcp.top/mg/cctv7
+CCTV-7_国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8_电视剧,http://goo.bkpcp.top/mg/cctv8
+CCTV-8_电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9_纪录,http://219.154.185.68:4022/rtp/225.1.4.77:1106
 CCTV-9_纪录,http://42.227.88.121:4022/rtp/225.1.4.77:1106
 CCTV-9_纪录,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9_纪录,http://goo.bkpcp.top/mg/cctv9
+CCTV-9_纪录,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10_科教,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV-10_科教,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV-10_科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10_科教,http://goo.bkpcp.top/mg/cctv10
+CCTV-10_科教,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11_戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11_戏曲,http://goo.bkpcp.top/mg/cctv11
+CCTV-11_戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12_社会与法,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV-12_社会与法,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV-12_社会与法,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12_社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV-12_社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13_新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13_新闻,http://goo.bkpcp.top/mg/cctv13
+CCTV-13_新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14_少儿,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV-14_少儿,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV-14_少儿,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14_少儿,http://goo.bkpcp.top/mg/cctv14
+CCTV-14_少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15_音乐,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15_音乐,http://goo.bkpcp.top/mg/cctv15
+CCTV-15_音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17_农业农村,http://goo.bkpcp.top/mg/cctv17
+CCTV-17_农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-1HD,http://219.154.185.68:4022/rtp/225.1.4.73:1102
 CCTV-1HD,http://42.227.88.121:4022/rtp/225.1.4.73:1102
 CCTV-1HD,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1HD,http://goo.bkpcp.top/mg/cctv1
+CCTV-1HD,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2HD,http://219.154.185.68:4022/rtp/225.1.4.74:1103
 CCTV-2HD,http://42.227.88.121:4022/rtp/225.1.4.74:1103
 CCTV-2HD,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2HD,http://goo.bkpcp.top/mg/cctv2
+CCTV-2HD,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3HD,http://219.154.185.68:4022/rtp/225.1.4.50:1079
 CCTV-3HD,http://42.227.88.121:4022/rtp/225.1.4.50:1079
+CCTV-3HD,http://goo.bkpcp.top/mg/cctv3
+CCTV-3HD,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4HD,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4HD,http://goo.bkpcp.top/mg/cctv4
+CCTV-4HD,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5HD,http://goo.bkpcp.top/mg/cctv5
+CCTV-5HD,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+HD,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV-5+HD,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV-5+HD,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+HD,http://goo.bkpcp.top/mg/cctv5p
+CCTV-5+HD,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6HD,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6HD,http://goo.bkpcp.top/mg/cctv6
+CCTV-6HD,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7HD,http://219.154.185.68:4022/rtp/225.1.4.76:1105
 CCTV-7HD,http://42.227.88.121:4022/rtp/225.1.4.76:1105
 CCTV-7HD,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7HD,http://goo.bkpcp.top/mg/cctv7
+CCTV-7HD,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8HD,http://goo.bkpcp.top/mg/cctv8
+CCTV-8HD,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9HD,http://219.154.185.68:4022/rtp/225.1.4.77:1106
 CCTV-9HD,http://42.227.88.121:4022/rtp/225.1.4.77:1106
 CCTV-9HD,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9HD,http://goo.bkpcp.top/mg/cctv9
+CCTV-9HD,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10HD,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV-10HD,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV-10HD,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10HD,http://goo.bkpcp.top/mg/cctv10
+CCTV-10HD,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11HD,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11HD,http://goo.bkpcp.top/mg/cctv11
+CCTV-11HD,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12HD,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV-12HD,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV-12HD,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12HD,http://goo.bkpcp.top/mg/cctv12
+CCTV-12HD,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13HD,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13HD,http://goo.bkpcp.top/mg/cctv13
+CCTV-13HD,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14HD,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV-14HD,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV-14HD,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14HD,http://goo.bkpcp.top/mg/cctv14
+CCTV-14HD,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15HD,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15HD,http://goo.bkpcp.top/mg/cctv15
+CCTV-15HD,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17HD,http://goo.bkpcp.top/mg/cctv17
+CCTV-17HD,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-1 综合,http://219.154.185.68:4022/rtp/225.1.4.73:1102
 CCTV-1 综合,http://42.227.88.121:4022/rtp/225.1.4.73:1102
 CCTV-1 综合,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://219.154.185.68:4022/rtp/225.1.4.74:1103
 CCTV-2 财经,http://42.227.88.121:4022/rtp/225.1.4.74:1103
 CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://219.154.185.68:4022/rtp/225.1.4.50:1079
 CCTV-3 综艺,http://42.227.88.121:4022/rtp/225.1.4.50:1079
+CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3
+CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4 中文国际,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4 中文国际,http://goo.bkpcp.top/mg/cctv4
+CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+ 体育赛事,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV-5+ 体育赛事,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV-5+ 体育赛事,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+ 体育赛事,http://goo.bkpcp.top/mg/cctv5p
+CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6 电影,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7 国防军事,http://219.154.185.68:4022/rtp/225.1.4.76:1105
 CCTV-7 国防军事,http://42.227.88.121:4022/rtp/225.1.4.76:1105
 CCTV-7 国防军事,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7
+CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9 纪录,http://219.154.185.68:4022/rtp/225.1.4.77:1106
 CCTV-9 纪录,http://42.227.88.121:4022/rtp/225.1.4.77:1106
 CCTV-9 纪录,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9
+CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10 科教,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV-10 科教,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV-10 科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10
+CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11 戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11
+CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12 社会与法,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV-12 社会与法,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV-12 社会与法,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13 新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13
+CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14 少儿,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV-14 少儿,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV-14 少儿,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14
+CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15 音乐,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15
+CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
+CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-1,http://219.154.185.68:4022/rtp/225.1.4.73:1102
 CCTV-1,http://42.227.88.121:4022/rtp/225.1.4.73:1102
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://219.154.185.68:4022/rtp/225.1.4.74:1103
 CCTV-2,http://42.227.88.121:4022/rtp/225.1.4.74:1103
 CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://219.154.185.68:4022/rtp/225.1.4.50:1079
 CCTV-3,http://42.227.88.121:4022/rtp/225.1.4.50:1079
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV-5+,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV-5+,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7,http://219.154.185.68:4022/rtp/225.1.4.76:1105
 CCTV-7,http://42.227.88.121:4022/rtp/225.1.4.76:1105
 CCTV-7,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9,http://219.154.185.68:4022/rtp/225.1.4.77:1106
 CCTV-9,http://42.227.88.121:4022/rtp/225.1.4.77:1106
 CCTV-9,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV-10,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV-10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV-12,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV-12,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV-14,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV-14,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17,http://goo.bkpcp.top/mg/cctv17
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV1,http://219.154.185.68:4022/rtp/225.1.4.73:1102
 CCTV1,http://42.227.88.121:4022/rtp/225.1.4.73:1102
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV1,http://goo.bkpcp.top/mg/cctv1
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://219.154.185.68:4022/rtp/225.1.4.74:1103
 CCTV2,http://42.227.88.121:4022/rtp/225.1.4.74:1103
 CCTV2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV2,http://goo.bkpcp.top/mg/cctv2
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://219.154.185.68:4022/rtp/225.1.4.50:1079
 CCTV3,http://42.227.88.121:4022/rtp/225.1.4.50:1079
+CCTV3,http://goo.bkpcp.top/mg/cctv3
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV4,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV4,http://goo.bkpcp.top/mg/cctv4
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV5,http://goo.bkpcp.top/mg/cctv5
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5+,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV5+,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV5+,http://112.123.206.32:808/hls/6/index.m3u8
 CCTV5+,http://219.154.185.68:4022/rtp/225.1.4.75:1104
 CCTV5+,http://42.227.88.121:4022/rtp/225.1.4.75:1104
 CCTV5+,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV6,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV6,http://goo.bkpcp.top/mg/cctv6
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV7,http://219.154.185.68:4022/rtp/225.1.4.76:1105
 CCTV7,http://42.227.88.121:4022/rtp/225.1.4.76:1105
 CCTV7,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV7,http://goo.bkpcp.top/mg/cctv7
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://goo.bkpcp.top/mg/cctv8
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV9,http://219.154.185.68:4022/rtp/225.1.4.77:1106
 CCTV9,http://42.227.88.121:4022/rtp/225.1.4.77:1106
 CCTV9,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV9,http://goo.bkpcp.top/mg/cctv9
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV10,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV10,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
 CCTV10,http://219.154.185.68:4022/rtp/225.1.4.78:1107
 CCTV10,http://42.227.88.121:4022/rtp/225.1.4.78:1107
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV10,http://goo.bkpcp.top/mg/cctv10
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV11,http://goo.bkpcp.top/mg/cctv11
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV12,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV12,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV12,http://219.154.185.68:4022/rtp/225.1.4.79:1108
 CCTV12,http://42.227.88.121:4022/rtp/225.1.4.79:1108
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV12,http://goo.bkpcp.top/mg/cctv12
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV13,http://goo.bkpcp.top/mg/cctv13
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV14,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV14,http://219.154.185.68:4022/rtp/225.1.4.80:1109
 CCTV14,http://42.227.88.121:4022/rtp/225.1.4.80:1109
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV14,http://goo.bkpcp.top/mg/cctv14
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV15,http://goo.bkpcp.top/mg/cctv15
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://goo.bkpcp.top/mg/cctv17
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 付费频道,#genre#
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
 
 央卫咪咕,#genre#
-CCTV-01咪咕,http://goo.bkpcp.top/mg/cctv1
-CCTV-02咪咕,http://goo.bkpcp.top/mg/cctv2
-CCTV-03咪咕,http://goo.bkpcp.top/mg/cctv3
-CCTV-04咪咕,http://goo.bkpcp.top/mg/cctv4
-CCTV-05咪咕,http://goo.bkpcp.top/mg/cctv5
-CCTV-06咪咕,http://goo.bkpcp.top/mg/cctv6
-CCTV-07咪咕,http://goo.bkpcp.top/mg/cctv7
-CCTV-08咪咕,http://goo.bkpcp.top/mg/cctv8
-CCTV-09咪咕,http://goo.bkpcp.top/mg/cctv9
-CCTV-10咪咕,http://goo.bkpcp.top/mg/cctv10
-CCTV-11咪咕,http://goo.bkpcp.top/mg/cctv11
-CCTV-12咪咕,http://goo.bkpcp.top/mg/cctv12
-CCTV-13咪咕,http://goo.bkpcp.top/mg/cctv13
-CCTV-14咪咕,http://goo.bkpcp.top/mg/cctv14
-CCTV-15咪咕,http://goo.bkpcp.top/mg/cctv15
-CCTV-16咪咕,https://yunmei.tv/main/cctv-16.m3u8
-CCTV-17咪咕,http://goo.bkpcp.top/mg/cctv17
 
 🈳无结果频道,#genre#
 港台电视33,url
-CCTV-5_体育,url
-CCTV-8_电视剧,url
 CCTV-16_奥林匹克,url
-CCTV-17_农业农村,url
-CCTV-5HD,url
-CCTV-8HD,url
 CCTV-16HD,url
-CCTV-17HD,url
-CCTV-5 体育,url
-CCTV-8 电视剧,url
 CCTV-16 奥林匹克,url
-CCTV-17 农业农村,url
 CCTV-4K 超高清,url
-CCTV-5,url
-CCTV-8,url
 CCTV-16,url
-CCTV-17,url
-CCTV5,url
-CCTV8,url
 CCTV16,url
-CCTV17,url
 CCTV01,url
 CCTV02,url
 CCTV03,url
@@ -269,9 +408,25 @@ CCTV风云剧场,url
 CCTV风云足球,url
 CCTV风云音乐,url
 CCTV老故事,url
-CCTV中学生,url
 CCTV高尔夫球,url
 CCTV女性时尚,url
+CCTV-01咪咕,url
+CCTV-02咪咕,url
+CCTV-03咪咕,url
+CCTV-04咪咕,url
+CCTV-05咪咕,url
+CCTV-06咪咕,url
+CCTV-07咪咕,url
+CCTV-08咪咕,url
+CCTV-09咪咕,url
+CCTV-10咪咕,url
+CCTV-11咪咕,url
+CCTV-12咪咕,url
+CCTV-13咪咕,url
+CCTV-14咪咕,url
+CCTV-15咪咕,url
+CCTV-16咪咕,url
+CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-04-29 03:09:40,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-30 03:09:33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

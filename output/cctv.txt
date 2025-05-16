@@ -331,4 +331,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-05-16 03:09:29,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-05-17 03:09:51,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

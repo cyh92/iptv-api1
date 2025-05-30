@@ -1,110 +1,182 @@
 央视频道,#genre#
 CCTV-1香港版,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
 CCTV-1_综合,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1_综合,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2_财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2_财经,http://sh.lnott.top:880/dx02.m3u8
+CCTV-3_综艺,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4_中文国际,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4_中文国际,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5_体育,http://sh.lnott.top:880/dx05.m3u8
 CCTV-5+_体育赛事,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+_体育赛事,http://sh.lnott.top:880/dx16.m3u8
 CCTV-6_电影,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6_电影,http://sh.lnott.top:880/dx06.m3u8
 CCTV-7_国防军事,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7_国防军事,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8_电视剧,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9_纪录,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9_纪录,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10_科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10_科教,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11_戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11_戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12_社会与法,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12_社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13_新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13_新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14_少儿,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14_少儿,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15_音乐,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15_音乐,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16_奥林匹克,http://sh.lnott.top:880/dx16.m3u8
+CCTV-17_农业农村,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1HD,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1HD,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2HD,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2HD,http://sh.lnott.top:880/dx02.m3u8
+CCTV-3HD,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4HD,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4HD,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5HD,http://sh.lnott.top:880/dx05.m3u8
 CCTV-5+HD,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+HD,http://sh.lnott.top:880/dx16.m3u8
 CCTV-6HD,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6HD,http://sh.lnott.top:880/dx06.m3u8
 CCTV-7HD,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7HD,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8HD,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9HD,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9HD,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10HD,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10HD,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11HD,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11HD,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12HD,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12HD,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13HD,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14HD,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15HD,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15HD,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16HD,http://sh.lnott.top:880/dx16.m3u8
+CCTV-17HD,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1 综合,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1 综合,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2 财经,http://sh.lnott.top:880/dx02.m3u8
+CCTV-3 综艺,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4 中文国际,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4 中文国际,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5 体育,http://sh.lnott.top:880/dx05.m3u8
 CCTV-5+ 体育赛事,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+ 体育赛事,http://sh.lnott.top:880/dx16.m3u8
 CCTV-6 电影,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6 电影,http://sh.lnott.top:880/dx06.m3u8
 CCTV-7 国防军事,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7 国防军事,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8 电视剧,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9 纪录,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9 纪录,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10 科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10 科教,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11 戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11 戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12 社会与法,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12 社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13 新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13 新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14 少儿,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14 少儿,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15 音乐,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15 音乐,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16 奥林匹克,http://sh.lnott.top:880/dx16.m3u8
+CCTV-17 农业农村,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2,http://sh.lnott.top:880/dx02.m3u8
+CCTV-3,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV-4,http://sh.lnott.top:880/dx04.m3u8
+CCTV-5,http://sh.lnott.top:880/dx05.m3u8
 CCTV-5+,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV-5+,http://sh.lnott.top:880/dx16.m3u8
 CCTV-6,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6,http://sh.lnott.top:880/dx06.m3u8
 CCTV-7,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-8,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV-9,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-12,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV-14,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV-15,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16,http://sh.lnott.top:880/dx16.m3u8
+CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV1,http://sh.lnott.top:880/dx01.m3u8
 CCTV2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV2,http://sh.lnott.top:880/dx02.m3u8
+CCTV3,http://sh.lnott.top:880/dx03.m3u8
 CCTV4,http://112.123.206.32:808/hls/4/index.m3u8
+CCTV4,http://sh.lnott.top:880/dx04.m3u8
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
 CCTV5+,http://112.123.206.32:808/hls/6/index.m3u8
 CCTV5+,http://112.123.206.32:808/hls/6/index.m3u8
+CCTV5+,http://sh.lnott.top:880/dx16.m3u8
 CCTV6,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
 CCTV7,http://112.123.206.32:808/hls/8/index.m3u8
+CCTV7,http://sh.lnott.top:880/dx07.m3u8
+CCTV8,http://sh.lnott.top:880/dx08.m3u8
 CCTV9,http://112.123.206.32:808/hls/10/index.m3u8
+CCTV9,http://sh.lnott.top:880/dx09.m3u8
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV10,http://sh.lnott.top:880/dx10.m3u8
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV11,http://sh.lnott.top:880/dx11.m3u8
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV12,http://sh.lnott.top:880/dx12.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
 
 付费频道,#genre#
+央视台球,http://sh.lnott.top:880/dx82.m3u8
+风云音乐,http://sh.lnott.top:880/dx73.m3u8
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
+风云足球,http://sh.lnott.top:880/dx71.m3u8
+世界地理,http://sh.lnott.top:880/dx72.m3u8
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
 
 央卫咪咕,#genre#
 
 🈳无结果频道,#genre#
 港台电视33,url
-CCTV-3_综艺,url
-CCTV-5_体育,url
-CCTV-8_电视剧,url
-CCTV-16_奥林匹克,url
-CCTV-17_农业农村,url
-CCTV-3HD,url
-CCTV-5HD,url
-CCTV-8HD,url
-CCTV-16HD,url
-CCTV-17HD,url
-CCTV-3 综艺,url
-CCTV-5 体育,url
-CCTV-8 电视剧,url
-CCTV-16 奥林匹克,url
-CCTV-17 农业农村,url
 CCTV-4K 超高清,url
-CCTV-3,url
-CCTV-5,url
-CCTV-8,url
-CCTV-16,url
-CCTV-17,url
-CCTV3,url
-CCTV5,url
-CCTV8,url
-CCTV16,url
-CCTV17,url
 CCTV01,url
 CCTV02,url
 CCTV03,url
@@ -139,17 +211,10 @@ CETV5,url
 中国教育4台,url
 中国教育5台,url
 文化精品,url
-央视台球,url
-风云音乐,url
 第一剧场,url
-风云剧场,url
-怀旧剧场,url
 女性时尚,url
 高尔夫网球,url
-风云足球,url
 电视指南,url
-世界地理,url
-兵器科技,url
 CCTV世界地理,url
 CCTV兵器科技,url
 CCTV央视台球,url
@@ -181,4 +246,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-05-30 03:09:49,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-05-31 03:09:52,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

@@ -2,8 +2,10 @@
 CCTV-1香港版,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
 CCTV-1_综合,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1_综合,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-1_综合,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV-1_综合,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2_财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2_财经,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV-2_财经,http://sh.lnott.top:880/dx02.m3u8
 CCTV-3_综艺,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4_中文国际,http://112.123.206.32:808/hls/4/index.m3u8
@@ -19,23 +21,29 @@ CCTV-8_电视剧,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9_纪录,http://112.123.206.32:808/hls/10/index.m3u8
 CCTV-9_纪录,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10_科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10_科教,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 CCTV-10_科教,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11_戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11_戏曲,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
 CCTV-11_戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12_社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12_社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13_新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13_新闻,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
 CCTV-13_新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14_少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14_少儿,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15_音乐,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV-15_音乐,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16_奥林匹克,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-16_奥林匹克,http://sh.lnott.top:880/dx16.m3u8
 CCTV-17_农业农村,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1HD,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1HD,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-1HD,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV-1HD,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2HD,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2HD,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV-2HD,http://sh.lnott.top:880/dx02.m3u8
 CCTV-3HD,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4HD,http://112.123.206.32:808/hls/4/index.m3u8
@@ -51,23 +59,29 @@ CCTV-8HD,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9HD,http://112.123.206.32:808/hls/10/index.m3u8
 CCTV-9HD,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10HD,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10HD,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 CCTV-10HD,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11HD,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11HD,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
 CCTV-11HD,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12HD,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12HD,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13HD,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13HD,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
 CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14HD,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15HD,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV-15HD,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16HD,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-16HD,http://sh.lnott.top:880/dx16.m3u8
 CCTV-17HD,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1 综合,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1 综合,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-1 综合,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV-1 综合,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2 财经,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV-2 财经,http://sh.lnott.top:880/dx02.m3u8
 CCTV-3 综艺,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4 中文国际,http://112.123.206.32:808/hls/4/index.m3u8
@@ -83,23 +97,29 @@ CCTV-8 电视剧,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9 纪录,http://112.123.206.32:808/hls/10/index.m3u8
 CCTV-9 纪录,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10 科教,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10 科教,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 CCTV-10 科教,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11 戏曲,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11 戏曲,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
 CCTV-11 戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12 社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12 社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13 新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13 新闻,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
 CCTV-13 新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14 少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14 少儿,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15 音乐,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV-15 音乐,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16 奥林匹克,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-16 奥林匹克,http://sh.lnott.top:880/dx16.m3u8
 CCTV-17 农业农村,http://sh.lnott.top:880/dx17.m3u8
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-1,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV-2,http://sh.lnott.top:880/dx02.m3u8
 CCTV-3,http://sh.lnott.top:880/dx03.m3u8
 CCTV-4,http://112.123.206.32:808/hls/4/index.m3u8
@@ -115,23 +135,29 @@ CCTV-8,http://sh.lnott.top:880/dx08.m3u8
 CCTV-9,http://112.123.206.32:808/hls/10/index.m3u8
 CCTV-9,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV-10,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 CCTV-10,http://sh.lnott.top:880/dx10.m3u8
 CCTV-11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV-11,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
 CCTV-11,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
 CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14,http://sh.lnott.top:880/dx14.m3u8
 CCTV-15,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV-15,http://sh.lnott.top:880/dx15.m3u8
+CCTV-16,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-16,http://sh.lnott.top:880/dx16.m3u8
 CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV1,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV1,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 CCTV1,http://sh.lnott.top:880/dx01.m3u8
 CCTV2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV2,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV2,http://sh.lnott.top:880/dx02.m3u8
 CCTV3,http://sh.lnott.top:880/dx03.m3u8
 CCTV4,http://112.123.206.32:808/hls/4/index.m3u8
@@ -149,15 +175,18 @@ CCTV9,http://112.123.206.32:808/hls/10/index.m3u8
 CCTV9,http://sh.lnott.top:880/dx09.m3u8
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
 CCTV10,http://112.123.206.32:808/hls/11/index.m3u8
+CCTV10,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 CCTV10,http://sh.lnott.top:880/dx10.m3u8
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
 CCTV11,http://112.123.206.32:808/hls/12/index.m3u8
+CCTV11,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
 CCTV11,http://sh.lnott.top:880/dx11.m3u8
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV12,http://sh.lnott.top:880/dx12.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV13,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
 CCTV13,http://sh.lnott.top:880/dx13.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
@@ -165,8 +194,11 @@ CCTV14,http://sh.lnott.top:880/dx14.m3u8
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV15,http://112.123.206.32:808/hls/16/index.m3u8
 CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV16,http://sh.lnott.top:880/dx16.m3u8
 CCTV17,http://sh.lnott.top:880/dx17.m3u8
+中国教育4,http://39.137.75.230/000000001000/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=no
+中国教育4台,http://39.137.75.230/000000001000/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=no
 
 付费频道,#genre#
 央视台球,http://sh.lnott.top:880/dx82.m3u8
@@ -208,12 +240,10 @@ CETV5,url
 中国教育1,url
 中国教育2,url
 中国教育3,url
-中国教育4,url
 中国教育5,url
 中国教育1台,url
 中国教育2台,url
 中国教育3台,url
-中国教育4台,url
 中国教育5台,url
 文化精品,url
 第一剧场,url
@@ -251,4 +281,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-05-31 03:09:52,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-06-01 03:09:14,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?

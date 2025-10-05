@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1香港版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1香港版.png" group-title="央视频道",CCTV-1香港版
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
 #EXTINF:-1 tvg-name="CCTV1_综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1_综合.png" group-title="央视频道",CCTV-1_综合
 http://112.123.206.32:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1_综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1_综合.png" group-title="央视频道",CCTV-1_综合
@@ -49,6 +47,8 @@ http://112.123.206.32:808/hls/13/index.m3u8
 http://sh.lnott.top:880/dx12.m3u8
 #EXTINF:-1 tvg-name="CCTV13_新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13_新闻.png" group-title="央视频道",CCTV-13_新闻
 http://112.123.206.32:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13_新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13_新闻.png" group-title="央视频道",CCTV-13_新闻
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV13_新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13_新闻.png" group-title="央视频道",CCTV-13_新闻
 http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 tvg-name="CCTV14_少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14_少儿.png" group-title="央视频道",CCTV-14_少儿
@@ -112,6 +112,8 @@ http://sh.lnott.top:880/dx12.m3u8
 #EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13HD.png" group-title="央视频道",CCTV-13HD
 http://112.123.206.32:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13HD.png" group-title="央视频道",CCTV-13HD
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13HD.png" group-title="央视频道",CCTV-13HD
 http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 tvg-name="CCTV14HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14HD.png" group-title="央视频道",CCTV-14HD
 http://112.123.206.32:808/hls/15/index.m3u8
@@ -174,6 +176,8 @@ http://sh.lnott.top:880/dx12.m3u8
 #EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="央视频道",CCTV-13 新闻
 http://112.123.206.32:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="央视频道",CCTV-13 新闻
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="央视频道",CCTV-13 新闻
 http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="央视频道",CCTV-14 少儿
 http://112.123.206.32:808/hls/15/index.m3u8
@@ -235,6 +239,8 @@ http://112.123.206.32:808/hls/13/index.m3u8
 http://sh.lnott.top:880/dx12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://112.123.206.32:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
@@ -308,6 +314,8 @@ http://112.123.206.32:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://112.123.206.32:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://112.123.206.32:808/hls/15/index.m3u8
@@ -340,6 +348,8 @@ http://sh.lnott.top:880/dx72.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="付费频道",兵器科技
 http://sh.lnott.top:880/dx81.m3u8
 #EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🈳无结果频道",港台电视33
+url
+#EXTINF:-1 tvg-name="CCTV1香港版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1香港版.png" group-title="🈳无结果频道",CCTV-1香港版
 url
 #EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K 超高清.png" group-title="🈳无结果频道",CCTV-4K 超高清
 url
@@ -477,5 +487,5 @@ url
 url
 #EXTINF:-1 tvg-name="CCTV17咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17咪咕.png" group-title="🈳无结果频道",CCTV-17咪咕
 url
-#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🕘️更新时间",2025-10-05 03:09:05
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🕘️更新时间",2025-10-05 09:32:23
+http://112.123.206.32:808/hls/1/index.m3u8

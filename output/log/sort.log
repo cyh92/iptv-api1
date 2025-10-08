@@ -11,7 +11,7 @@ Name: CCTV-1_综合, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv
 Name: CCTV-1_综合, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1_综合, URL: http://111.43.126.240:9003/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1_综合, URL: http://ygbh.site/php/bfgd.php?id=488$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1_综合, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1_综合, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1_综合, URL: https://live.tvfix.org/live/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2_财经, URL: http://107.174.52.32/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2_财经, URL: http://112.123.243.37:50085/tsfile/live/0002_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -25,7 +25,7 @@ Name: CCTV-2_财经, URL: http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=
 Name: CCTV-2_财经, URL: https://hls-gateway.vpstv.net/streams/476881.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2_财经, URL: http://111.43.126.240:9003/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2_财经, URL: http://ygbh.site/php/bfgd.php?id=061$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2_财经, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-2_财经, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-3_综艺, URL: http://107.174.52.32/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3_综艺, URL: http://112.27.235.94:8000/hls/3/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3_综艺, URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -39,7 +39,7 @@ Name: CCTV-3_综艺, URL: http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=
 Name: CCTV-3_综艺, URL: https://hls-gateway.vpstv.net/streams/476883.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3_综艺, URL: http://111.43.126.240:9003/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3_综艺, URL: http://ygbh.site/php/bfgd.php?id=062$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3_综艺, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3_综艺, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-4_中文国际, URL: http://107.174.52.32/itv.php?id=CCTV4, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4_中文国际, URL: http://112.27.235.94:8000/hls/4/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4_中文国际, URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -53,7 +53,7 @@ Name: CCTV-4_中文国际, URL: https://hls-gateway.vpstv.net/streams/476884.m3u
 Name: CCTV-4_中文国际, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4_中文国际, URL: http://111.43.126.240:9003/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4_中文国际, URL: http://ygbh.site/php/bfgd.php?id=063$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4_中文国际, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4_中文国际, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5_体育, URL: http://107.174.52.32/itv.php?id=CCTV5, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5_体育, URL: http://112.27.235.94:8000/hls/5/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5_体育, URL: http://112.123.243.37:50085/tsfile/live/0005_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -69,7 +69,7 @@ Name: CCTV-5_体育, URL: http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=
 Name: CCTV-5_体育, URL: https://hls-gateway.vpstv.net/streams/476885.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-5_体育, URL: http://111.43.126.240:9003/hls/17/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5_体育, URL: http://ygbh.site/php/bfgd.php?id=064$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5_体育, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5_体育, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5+_体育赛事, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+_体育赛事, URL: http://107.174.52.32/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+_体育赛事, URL: http://112.27.235.94:8000/hls/6/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -83,7 +83,7 @@ Name: CCTV-5+_体育赛事, URL: http://lu.wqwqwq.sbs/itv/1000000005000265016.m3
 Name: CCTV-5+_体育赛事, URL: http://111.43.126.240:9003/hls/18/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+_体育赛事, URL: http://ygbh.site/php/bfgd.php?id=246$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+_体育赛事, URL: http://cfss.cc/api/ysp/cctv5p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5+_体育赛事, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5+_体育赛事, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-6_电影, URL: http://107.174.52.32/itv.php?id=CCTV6, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6_电影, URL: http://112.27.235.94:8000/hls/7/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6_电影, URL: http://101.23.150.109:9901/tsfile/live/0006_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -97,7 +97,7 @@ Name: CCTV-6_电影, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6$订阅�
 Name: CCTV-6_电影, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6_电影, URL: http://111.43.126.240:9003/hls/19/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6_电影, URL: http://ygbh.site/php/bfgd.php?id=065$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6_电影, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6_电影, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-7_国防军事, URL: http://107.174.52.32/itv.php?id=CCTV7, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7_国防军事, URL: http://112.27.235.94:8000/hls/8/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7_国防军事, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -110,7 +110,7 @@ Name: CCTV-7_国防军事, URL: https://hls-gateway.vpstv.net/streams/476891.m3u
 Name: CCTV-7_国防军事, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-7_国防军事, URL: http://111.43.126.240:9003/hls/20/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7_国防军事, URL: http://ygbh.site/php/bfgd.php?id=127$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7_国防军事, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-7_国防军事, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-8_电视剧, URL: http://107.174.52.32/itv.php?id=CCTV8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8_电视剧, URL: http://112.27.235.94:8000/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8_电视剧, URL: http://101.23.150.109:9901/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -124,7 +124,7 @@ Name: CCTV-8_电视剧, URL: http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?c
 Name: CCTV-8_电视剧, URL: http://tvbox6.com/tv/bfgd.php?id=066$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8_电视剧, URL: http://111.43.126.240:9003/hls/21/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8_电视剧, URL: http://ygbh.site/php/bfgd.php?id=066$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8_电视剧, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-8_电视剧, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-9_纪录, URL: http://107.174.52.32/itv.php?id=CCTV9, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9_纪录, URL: http://112.27.235.94:8000/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9_纪录, URL: http://60.16.0.216:5757/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -138,7 +138,7 @@ Name: CCTV-9_纪录, URL: http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=
 Name: CCTV-9_纪录, URL: http://tvbox6.com/tv/bfgd.php?id=128$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9_纪录, URL: http://111.43.126.240:9003/hls/22/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9_纪录, URL: http://ygbh.site/php/bfgd.php?id=128$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-9_纪录, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-9_纪录, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-10_科教, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10_科教, URL: http://107.174.52.32/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10_科教, URL: http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -153,7 +153,7 @@ Name: CCTV-10_科教, URL: http://tvbox6.com/tv/bfgd.php?id=129$订阅源, IPv_T
 Name: CCTV-10_科教, URL: https://hls-gateway.vpstv.net/streams/476896.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10_科教, URL: http://111.43.126.240:9003/hls/23/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10_科教, URL: http://ygbh.site/php/bfgd.php?id=129$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10_科教, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-10_科教, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-11_戏曲, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11_戏曲, URL: http://107.174.52.32/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11_戏曲, URL: http://112.27.235.94:8000/hls/12/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -168,7 +168,7 @@ Name: CCTV-11_戏曲, URL: http://tvbox6.com/tv/bfgd.php?id=130$订阅源, IPv_T
 Name: CCTV-11_戏曲, URL: https://hls-gateway.vpstv.net/streams/476897.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11_戏曲, URL: http://111.43.126.240:9003/hls/24/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11_戏曲, URL: http://ygbh.site/php/bfgd.php?id=130$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11_戏曲, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-11_戏曲, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-12_社会与法, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12_社会与法, URL: http://107.174.52.32/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12_社会与法, URL: http://112.27.235.94:8000/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -183,12 +183,12 @@ Name: CCTV-12_社会与法, URL: http://lu.wqwqwq.sbs/itv/1000000005000265012.m3
 Name: CCTV-12_社会与法, URL: http://tvbox6.com/tv/bfgd.php?id=131$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12_社会与法, URL: http://111.43.126.240:9003/hls/25/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12_社会与法, URL: http://ygbh.site/php/bfgd.php?id=131$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12_社会与法, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-12_社会与法, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13_新闻, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: http://107.174.52.32/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: http://112.27.235.94:8000/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: http://60.16.0.216:5757/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13_新闻, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 246 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13_新闻, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 252 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13_新闻, URL: http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: http://101.23.150.109:9901/tsfile/live/0013_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -198,7 +198,7 @@ Name: CCTV-13_新闻, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_vi
 Name: CCTV-13_新闻, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13_新闻, URL: http://111.43.126.240:9003/hls/26/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13_新闻, URL: http://ygbh.site/php/bfgd.php?id=067$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13_新闻, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13_新闻, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-14_少儿, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14_少儿, URL: http://107.174.52.32/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14_少儿, URL: http://112.27.235.94:8000/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -213,7 +213,7 @@ Name: CCTV-14_少儿, URL: http://3501776.xyz:35455/gaoma/cctv14.m3u8$订阅源,
 Name: CCTV-14_少儿, URL: http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14_少儿, URL: http://111.43.126.240:9003/hls/27/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14_少儿, URL: http://ygbh.site/php/bfgd.php?id=132$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14_少儿, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-14_少儿, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-15_音乐, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15_音乐, URL: http://107.174.52.32/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15_音乐, URL: http://112.27.235.94:8000/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -226,14 +226,14 @@ Name: CCTV-15_音乐, URL: http://3501776.xyz:35455/itv/1000000005000265014.m3u8
 Name: CCTV-15_音乐, URL: http://tvbox6.com/tv/bfgd.php?id=133$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15_音乐, URL: http://111.43.126.240:9003/hls/28/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15_音乐, URL: http://ygbh.site/php/bfgd.php?id=133$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15_音乐, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-15_音乐, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-16_奥林匹克, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16_奥林匹克, URL: http://107.174.52.32/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16_奥林匹克, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16_奥林匹克, URL: https://yunmei.tv/main/cctv-16.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16_奥林匹克, URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16_奥林匹克, URL: http://111.43.126.240:9003/hls/29/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16_奥林匹克, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-16_奥林匹克, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-17_农业农村, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17_农业农村, URL: http://107.174.52.32/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17_农业农村, URL: https://cc06.tv12.xyz/17.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -244,7 +244,7 @@ Name: CCTV-17_农业农村, URL: http://tvbox6.com/tv/bfgd.php?id=204$订阅源,
 Name: CCTV-17_农业农村, URL: https://hls-gateway.vpstv.net/streams/708820.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-17_农业农村, URL: http://111.43.126.240:9003/hls/30/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17_农业农村, URL: http://ygbh.site/php/bfgd.php?id=204$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17_农业农村, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-17_农业农村, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1HD, URL: http://107.174.52.32/itv.php?id=CCTV1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1HD, URL: http://112.27.235.94:8000/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1HD, URL: http://101.23.150.109:9901/tsfile/live/0001_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -258,7 +258,7 @@ Name: CCTV-1HD, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type
 Name: CCTV-1HD, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1HD, URL: http://111.43.126.240:9003/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1HD, URL: http://ygbh.site/php/bfgd.php?id=488$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1HD, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1HD, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1HD, URL: https://live.tvfix.org/live/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2HD, URL: http://107.174.52.32/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2HD, URL: http://112.123.243.37:50085/tsfile/live/0002_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -272,7 +272,7 @@ Name: CCTV-2HD, URL: http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ysten
 Name: CCTV-2HD, URL: https://hls-gateway.vpstv.net/streams/476881.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2HD, URL: http://111.43.126.240:9003/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2HD, URL: http://ygbh.site/php/bfgd.php?id=061$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2HD, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-2HD, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-3HD, URL: http://107.174.52.32/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3HD, URL: http://112.27.235.94:8000/hls/3/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3HD, URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -286,7 +286,7 @@ Name: CCTV-3HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ysten
 Name: CCTV-3HD, URL: https://hls-gateway.vpstv.net/streams/476883.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3HD, URL: http://111.43.126.240:9003/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3HD, URL: http://ygbh.site/php/bfgd.php?id=062$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3HD, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3HD, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-4HD, URL: http://107.174.52.32/itv.php?id=CCTV4, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4HD, URL: http://112.27.235.94:8000/hls/4/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4HD, URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -300,7 +300,7 @@ Name: CCTV-4HD, URL: https://hls-gateway.vpstv.net/streams/476884.m3u8$订阅源
 Name: CCTV-4HD, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4HD, URL: http://111.43.126.240:9003/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4HD, URL: http://ygbh.site/php/bfgd.php?id=063$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4HD, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4HD, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5HD, URL: http://107.174.52.32/itv.php?id=CCTV5, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5HD, URL: http://112.27.235.94:8000/hls/5/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5HD, URL: http://112.123.243.37:50085/tsfile/live/0005_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -316,7 +316,7 @@ Name: CCTV-5HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ysten
 Name: CCTV-5HD, URL: https://hls-gateway.vpstv.net/streams/476885.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-5HD, URL: http://111.43.126.240:9003/hls/17/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5HD, URL: http://ygbh.site/php/bfgd.php?id=064$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5HD, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5HD, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5+HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+HD, URL: http://107.174.52.32/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+HD, URL: http://112.27.235.94:8000/hls/6/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -330,7 +330,7 @@ Name: CCTV-5+HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=yste
 Name: CCTV-5+HD, URL: http://111.43.126.240:9003/hls/18/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+HD, URL: http://ygbh.site/php/bfgd.php?id=246$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+HD, URL: http://cfss.cc/api/ysp/cctv5p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5+HD, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5+HD, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-6HD, URL: http://107.174.52.32/itv.php?id=CCTV6, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6HD, URL: http://112.27.235.94:8000/hls/7/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6HD, URL: http://101.23.150.109:9901/tsfile/live/0006_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -344,7 +344,7 @@ Name: CCTV-6HD, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6$订阅源, IP
 Name: CCTV-6HD, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6HD, URL: http://111.43.126.240:9003/hls/19/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6HD, URL: http://ygbh.site/php/bfgd.php?id=065$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6HD, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6HD, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-7HD, URL: http://107.174.52.32/itv.php?id=CCTV7, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7HD, URL: http://112.27.235.94:8000/hls/8/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7HD, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -357,7 +357,7 @@ Name: CCTV-7HD, URL: https://hls-gateway.vpstv.net/streams/476891.m3u8$订阅源
 Name: CCTV-7HD, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-7HD, URL: http://111.43.126.240:9003/hls/20/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7HD, URL: http://ygbh.site/php/bfgd.php?id=127$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7HD, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-7HD, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-8HD, URL: http://107.174.52.32/itv.php?id=CCTV8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8HD, URL: http://112.27.235.94:8000/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8HD, URL: http://101.23.150.109:9901/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -371,7 +371,7 @@ Name: CCTV-8HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ysten
 Name: CCTV-8HD, URL: http://tvbox6.com/tv/bfgd.php?id=066$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8HD, URL: http://111.43.126.240:9003/hls/21/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8HD, URL: http://ygbh.site/php/bfgd.php?id=066$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8HD, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-8HD, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-9HD, URL: http://107.174.52.32/itv.php?id=CCTV9, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9HD, URL: http://112.27.235.94:8000/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9HD, URL: http://60.16.0.216:5757/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -385,7 +385,7 @@ Name: CCTV-9HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ysten
 Name: CCTV-9HD, URL: http://tvbox6.com/tv/bfgd.php?id=128$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9HD, URL: http://111.43.126.240:9003/hls/22/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9HD, URL: http://ygbh.site/php/bfgd.php?id=128$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-9HD, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-9HD, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-10HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10HD, URL: http://107.174.52.32/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10HD, URL: http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -400,7 +400,7 @@ Name: CCTV-10HD, URL: http://tvbox6.com/tv/bfgd.php?id=129$订阅源, IPv_Type: 
 Name: CCTV-10HD, URL: https://hls-gateway.vpstv.net/streams/476896.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10HD, URL: http://111.43.126.240:9003/hls/23/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10HD, URL: http://ygbh.site/php/bfgd.php?id=129$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10HD, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-10HD, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-11HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11HD, URL: http://107.174.52.32/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11HD, URL: http://112.27.235.94:8000/hls/12/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -415,7 +415,7 @@ Name: CCTV-11HD, URL: http://tvbox6.com/tv/bfgd.php?id=130$订阅源, IPv_Type: 
 Name: CCTV-11HD, URL: https://hls-gateway.vpstv.net/streams/476897.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11HD, URL: http://111.43.126.240:9003/hls/24/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11HD, URL: http://ygbh.site/php/bfgd.php?id=130$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11HD, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-11HD, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-12HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12HD, URL: http://107.174.52.32/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12HD, URL: http://112.27.235.94:8000/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -430,12 +430,12 @@ Name: CCTV-12HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=yste
 Name: CCTV-12HD, URL: http://tvbox6.com/tv/bfgd.php?id=131$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12HD, URL: http://111.43.126.240:9003/hls/25/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12HD, URL: http://ygbh.site/php/bfgd.php?id=131$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12HD, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-12HD, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: http://107.174.52.32/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: http://112.27.235.94:8000/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: http://60.16.0.216:5757/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13HD, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 246 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13HD, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 252 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13HD, URL: http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: http://101.23.150.109:9901/tsfile/live/0013_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -445,7 +445,7 @@ Name: CCTV-13HD, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m
 Name: CCTV-13HD, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13HD, URL: http://111.43.126.240:9003/hls/26/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13HD, URL: http://ygbh.site/php/bfgd.php?id=067$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13HD, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13HD, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-14HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14HD, URL: http://107.174.52.32/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14HD, URL: http://112.27.235.94:8000/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -460,7 +460,7 @@ Name: CCTV-14HD, URL: http://3501776.xyz:35455/gaoma/cctv14.m3u8$订阅源, IPv_
 Name: CCTV-14HD, URL: http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14HD, URL: http://111.43.126.240:9003/hls/27/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14HD, URL: http://ygbh.site/php/bfgd.php?id=132$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14HD, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-14HD, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-15HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15HD, URL: http://107.174.52.32/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15HD, URL: http://112.27.235.94:8000/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -473,14 +473,14 @@ Name: CCTV-15HD, URL: http://3501776.xyz:35455/itv/1000000005000265014.m3u8?cdn=
 Name: CCTV-15HD, URL: http://tvbox6.com/tv/bfgd.php?id=133$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15HD, URL: http://111.43.126.240:9003/hls/28/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15HD, URL: http://ygbh.site/php/bfgd.php?id=133$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15HD, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-15HD, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-16HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16HD, URL: http://107.174.52.32/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16HD, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16HD, URL: https://yunmei.tv/main/cctv-16.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16HD, URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16HD, URL: http://111.43.126.240:9003/hls/29/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16HD, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-16HD, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-17HD, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17HD, URL: http://107.174.52.32/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17HD, URL: https://cc06.tv12.xyz/17.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -491,7 +491,7 @@ Name: CCTV-17HD, URL: http://tvbox6.com/tv/bfgd.php?id=204$订阅源, IPv_Type: 
 Name: CCTV-17HD, URL: https://hls-gateway.vpstv.net/streams/708820.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-17HD, URL: http://111.43.126.240:9003/hls/30/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17HD, URL: http://ygbh.site/php/bfgd.php?id=204$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17HD, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-17HD, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1 综合, URL: http://107.174.52.32/itv.php?id=CCTV1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1 综合, URL: http://112.27.235.94:8000/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1 综合, URL: http://101.23.150.109:9901/tsfile/live/0001_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -505,7 +505,7 @@ Name: CCTV-1 综合, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv
 Name: CCTV-1 综合, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1 综合, URL: http://111.43.126.240:9003/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1 综合, URL: http://ygbh.site/php/bfgd.php?id=488$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1 综合, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1 综合, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1 综合, URL: https://live.tvfix.org/live/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2 财经, URL: http://107.174.52.32/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2 财经, URL: http://112.123.243.37:50085/tsfile/live/0002_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -519,7 +519,7 @@ Name: CCTV-2 财经, URL: http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=
 Name: CCTV-2 财经, URL: https://hls-gateway.vpstv.net/streams/476881.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2 财经, URL: http://111.43.126.240:9003/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2 财经, URL: http://ygbh.site/php/bfgd.php?id=061$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2 财经, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-2 财经, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-3 综艺, URL: http://107.174.52.32/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3 综艺, URL: http://112.27.235.94:8000/hls/3/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3 综艺, URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -533,7 +533,7 @@ Name: CCTV-3 综艺, URL: http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=
 Name: CCTV-3 综艺, URL: https://hls-gateway.vpstv.net/streams/476883.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3 综艺, URL: http://111.43.126.240:9003/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3 综艺, URL: http://ygbh.site/php/bfgd.php?id=062$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3 综艺, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3 综艺, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-4 中文国际, URL: http://107.174.52.32/itv.php?id=CCTV4, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4 中文国际, URL: http://112.27.235.94:8000/hls/4/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4 中文国际, URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -547,7 +547,7 @@ Name: CCTV-4 中文国际, URL: https://hls-gateway.vpstv.net/streams/476884.m3u
 Name: CCTV-4 中文国际, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4 中文国际, URL: http://111.43.126.240:9003/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4 中文国际, URL: http://ygbh.site/php/bfgd.php?id=063$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4 中文国际, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4 中文国际, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5 体育, URL: http://107.174.52.32/itv.php?id=CCTV5, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5 体育, URL: http://112.27.235.94:8000/hls/5/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5 体育, URL: http://112.123.243.37:50085/tsfile/live/0005_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -563,7 +563,7 @@ Name: CCTV-5 体育, URL: http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=
 Name: CCTV-5 体育, URL: https://hls-gateway.vpstv.net/streams/476885.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-5 体育, URL: http://111.43.126.240:9003/hls/17/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5 体育, URL: http://ygbh.site/php/bfgd.php?id=064$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5 体育, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5 体育, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5+ 体育赛事, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+ 体育赛事, URL: http://107.174.52.32/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+ 体育赛事, URL: http://112.27.235.94:8000/hls/6/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -577,7 +577,7 @@ Name: CCTV-5+ 体育赛事, URL: http://lu.wqwqwq.sbs/itv/1000000005000265016.m3
 Name: CCTV-5+ 体育赛事, URL: http://111.43.126.240:9003/hls/18/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+ 体育赛事, URL: http://ygbh.site/php/bfgd.php?id=246$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+ 体育赛事, URL: http://cfss.cc/api/ysp/cctv5p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5+ 体育赛事, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5+ 体育赛事, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-6 电影, URL: http://107.174.52.32/itv.php?id=CCTV6, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6 电影, URL: http://112.27.235.94:8000/hls/7/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6 电影, URL: http://101.23.150.109:9901/tsfile/live/0006_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -591,7 +591,7 @@ Name: CCTV-6 电影, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6$订阅�
 Name: CCTV-6 电影, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6 电影, URL: http://111.43.126.240:9003/hls/19/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6 电影, URL: http://ygbh.site/php/bfgd.php?id=065$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6 电影, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6 电影, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-7 国防军事, URL: http://107.174.52.32/itv.php?id=CCTV7, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7 国防军事, URL: http://112.27.235.94:8000/hls/8/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7 国防军事, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -604,7 +604,7 @@ Name: CCTV-7 国防军事, URL: https://hls-gateway.vpstv.net/streams/476891.m3u
 Name: CCTV-7 国防军事, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-7 国防军事, URL: http://111.43.126.240:9003/hls/20/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7 国防军事, URL: http://ygbh.site/php/bfgd.php?id=127$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7 国防军事, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-7 国防军事, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-8 电视剧, URL: http://107.174.52.32/itv.php?id=CCTV8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8 电视剧, URL: http://112.27.235.94:8000/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8 电视剧, URL: http://101.23.150.109:9901/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -618,7 +618,7 @@ Name: CCTV-8 电视剧, URL: http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?c
 Name: CCTV-8 电视剧, URL: http://tvbox6.com/tv/bfgd.php?id=066$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8 电视剧, URL: http://111.43.126.240:9003/hls/21/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8 电视剧, URL: http://ygbh.site/php/bfgd.php?id=066$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8 电视剧, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-8 电视剧, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-9 纪录, URL: http://107.174.52.32/itv.php?id=CCTV9, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9 纪录, URL: http://112.27.235.94:8000/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9 纪录, URL: http://60.16.0.216:5757/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -632,7 +632,7 @@ Name: CCTV-9 纪录, URL: http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=
 Name: CCTV-9 纪录, URL: http://tvbox6.com/tv/bfgd.php?id=128$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9 纪录, URL: http://111.43.126.240:9003/hls/22/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9 纪录, URL: http://ygbh.site/php/bfgd.php?id=128$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-9 纪录, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-9 纪录, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-10 科教, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10 科教, URL: http://107.174.52.32/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10 科教, URL: http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -647,7 +647,7 @@ Name: CCTV-10 科教, URL: http://tvbox6.com/tv/bfgd.php?id=129$订阅源, IPv_T
 Name: CCTV-10 科教, URL: https://hls-gateway.vpstv.net/streams/476896.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10 科教, URL: http://111.43.126.240:9003/hls/23/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10 科教, URL: http://ygbh.site/php/bfgd.php?id=129$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10 科教, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-10 科教, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-11 戏曲, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11 戏曲, URL: http://107.174.52.32/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11 戏曲, URL: http://112.27.235.94:8000/hls/12/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -662,7 +662,7 @@ Name: CCTV-11 戏曲, URL: http://tvbox6.com/tv/bfgd.php?id=130$订阅源, IPv_T
 Name: CCTV-11 戏曲, URL: https://hls-gateway.vpstv.net/streams/476897.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11 戏曲, URL: http://111.43.126.240:9003/hls/24/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11 戏曲, URL: http://ygbh.site/php/bfgd.php?id=130$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11 戏曲, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-11 戏曲, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-12 社会与法, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12 社会与法, URL: http://107.174.52.32/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12 社会与法, URL: http://112.27.235.94:8000/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -677,12 +677,12 @@ Name: CCTV-12 社会与法, URL: http://lu.wqwqwq.sbs/itv/1000000005000265012.m3
 Name: CCTV-12 社会与法, URL: http://tvbox6.com/tv/bfgd.php?id=131$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12 社会与法, URL: http://111.43.126.240:9003/hls/25/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12 社会与法, URL: http://ygbh.site/php/bfgd.php?id=131$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12 社会与法, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-12 社会与法, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13 新闻, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: http://107.174.52.32/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: http://112.27.235.94:8000/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: http://60.16.0.216:5757/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13 新闻, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 246 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13 新闻, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 252 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13 新闻, URL: http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: http://101.23.150.109:9901/tsfile/live/0013_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -692,7 +692,7 @@ Name: CCTV-13 新闻, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_vi
 Name: CCTV-13 新闻, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13 新闻, URL: http://111.43.126.240:9003/hls/26/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13 新闻, URL: http://ygbh.site/php/bfgd.php?id=067$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13 新闻, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13 新闻, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-14 少儿, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14 少儿, URL: http://107.174.52.32/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14 少儿, URL: http://112.27.235.94:8000/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -707,7 +707,7 @@ Name: CCTV-14 少儿, URL: http://3501776.xyz:35455/gaoma/cctv14.m3u8$订阅源,
 Name: CCTV-14 少儿, URL: http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14 少儿, URL: http://111.43.126.240:9003/hls/27/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14 少儿, URL: http://ygbh.site/php/bfgd.php?id=132$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14 少儿, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-14 少儿, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-15 音乐, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15 音乐, URL: http://107.174.52.32/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15 音乐, URL: http://112.27.235.94:8000/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -720,14 +720,14 @@ Name: CCTV-15 音乐, URL: http://3501776.xyz:35455/itv/1000000005000265014.m3u8
 Name: CCTV-15 音乐, URL: http://tvbox6.com/tv/bfgd.php?id=133$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15 音乐, URL: http://111.43.126.240:9003/hls/28/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15 音乐, URL: http://ygbh.site/php/bfgd.php?id=133$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15 音乐, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-15 音乐, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-16 奥林匹克, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16 奥林匹克, URL: http://107.174.52.32/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16 奥林匹克, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16 奥林匹克, URL: https://yunmei.tv/main/cctv-16.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16 奥林匹克, URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16 奥林匹克, URL: http://111.43.126.240:9003/hls/29/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16 奥林匹克, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-16 奥林匹克, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-17 农业农村, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17 农业农村, URL: http://107.174.52.32/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17 农业农村, URL: https://cc06.tv12.xyz/17.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -738,7 +738,7 @@ Name: CCTV-17 农业农村, URL: http://tvbox6.com/tv/bfgd.php?id=204$订阅源,
 Name: CCTV-17 农业农村, URL: https://hls-gateway.vpstv.net/streams/708820.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-17 农业农村, URL: http://111.43.126.240:9003/hls/30/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17 农业农村, URL: http://ygbh.site/php/bfgd.php?id=204$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17 农业农村, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-17 农业农村, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: http://107.174.52.32/itv.php?id=CCTV1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: http://112.27.235.94:8000/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: http://101.23.150.109:9901/tsfile/live/0001_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -752,7 +752,7 @@ Name: CCTV-1, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: 
 Name: CCTV-1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: http://111.43.126.240:9003/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: http://ygbh.site/php/bfgd.php?id=488$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: https://live.tvfix.org/live/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://107.174.52.32/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://112.123.243.37:50085/tsfile/live/0002_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -766,7 +766,7 @@ Name: CCTV-2, URL: http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenli
 Name: CCTV-2, URL: https://hls-gateway.vpstv.net/streams/476881.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://111.43.126.240:9003/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://ygbh.site/php/bfgd.php?id=061$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://107.174.52.32/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://112.27.235.94:8000/hls/3/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -780,7 +780,7 @@ Name: CCTV-3, URL: http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenli
 Name: CCTV-3, URL: https://hls-gateway.vpstv.net/streams/476883.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://111.43.126.240:9003/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://ygbh.site/php/bfgd.php?id=062$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://107.174.52.32/itv.php?id=CCTV4, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://112.27.235.94:8000/hls/4/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -794,7 +794,7 @@ Name: CCTV-4, URL: https://hls-gateway.vpstv.net/streams/476884.m3u8$订阅源, 
 Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://111.43.126.240:9003/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://ygbh.site/php/bfgd.php?id=063$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5, URL: http://107.174.52.32/itv.php?id=CCTV5, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://112.27.235.94:8000/hls/5/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://112.123.243.37:50085/tsfile/live/0005_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -810,7 +810,7 @@ Name: CCTV-5, URL: http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenli
 Name: CCTV-5, URL: https://hls-gateway.vpstv.net/streams/476885.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-5, URL: http://111.43.126.240:9003/hls/17/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://ygbh.site/php/bfgd.php?id=064$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-5+, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: http://107.174.52.32/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: http://112.27.235.94:8000/hls/6/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -824,7 +824,7 @@ Name: CCTV-5+, URL: http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenl
 Name: CCTV-5+, URL: http://111.43.126.240:9003/hls/18/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: http://ygbh.site/php/bfgd.php?id=246$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: http://cfss.cc/api/ysp/cctv5p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5+, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://107.174.52.32/itv.php?id=CCTV6, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://112.27.235.94:8000/hls/7/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://101.23.150.109:9901/tsfile/live/0006_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -838,7 +838,7 @@ Name: CCTV-6, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6$订阅源, IPv_
 Name: CCTV-6, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://111.43.126.240:9003/hls/19/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://ygbh.site/php/bfgd.php?id=065$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-7, URL: http://107.174.52.32/itv.php?id=CCTV7, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://112.27.235.94:8000/hls/8/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -851,7 +851,7 @@ Name: CCTV-7, URL: https://hls-gateway.vpstv.net/streams/476891.m3u8$订阅源, 
 Name: CCTV-7, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-7, URL: http://111.43.126.240:9003/hls/20/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://ygbh.site/php/bfgd.php?id=127$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://107.174.52.32/itv.php?id=CCTV8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://112.27.235.94:8000/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://101.23.150.109:9901/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -865,7 +865,7 @@ Name: CCTV-8, URL: http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ystenli
 Name: CCTV-8, URL: http://tvbox6.com/tv/bfgd.php?id=066$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://111.43.126.240:9003/hls/21/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://ygbh.site/php/bfgd.php?id=066$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://107.174.52.32/itv.php?id=CCTV9, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9, URL: http://112.27.235.94:8000/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9, URL: http://60.16.0.216:5757/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -879,7 +879,7 @@ Name: CCTV-9, URL: http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ystenli
 Name: CCTV-9, URL: http://tvbox6.com/tv/bfgd.php?id=128$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://111.43.126.240:9003/hls/22/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9, URL: http://ygbh.site/php/bfgd.php?id=128$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-9, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: http://107.174.52.32/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -894,7 +894,7 @@ Name: CCTV-10, URL: http://tvbox6.com/tv/bfgd.php?id=129$订阅源, IPv_Type: ip
 Name: CCTV-10, URL: https://hls-gateway.vpstv.net/streams/476896.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://111.43.126.240:9003/hls/23/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: http://ygbh.site/php/bfgd.php?id=129$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://107.174.52.32/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://112.27.235.94:8000/hls/12/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -909,7 +909,7 @@ Name: CCTV-11, URL: http://tvbox6.com/tv/bfgd.php?id=130$订阅源, IPv_Type: ip
 Name: CCTV-11, URL: https://hls-gateway.vpstv.net/streams/476897.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://111.43.126.240:9003/hls/24/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://ygbh.site/php/bfgd.php?id=130$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: http://107.174.52.32/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: http://112.27.235.94:8000/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -924,12 +924,12 @@ Name: CCTV-12, URL: http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenl
 Name: CCTV-12, URL: http://tvbox6.com/tv/bfgd.php?id=131$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-12, URL: http://111.43.126.240:9003/hls/25/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: http://ygbh.site/php/bfgd.php?id=131$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-12, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://107.174.52.32/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://112.27.235.94:8000/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://60.16.0.216:5757/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 246 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 252 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://101.23.150.109:9901/tsfile/live/0013_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -939,7 +939,7 @@ Name: CCTV-13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u
 Name: CCTV-13, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: http://111.43.126.240:9003/hls/26/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://ygbh.site/php/bfgd.php?id=067$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: http://107.174.52.32/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: http://112.27.235.94:8000/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -954,7 +954,7 @@ Name: CCTV-14, URL: http://3501776.xyz:35455/gaoma/cctv14.m3u8$订阅源, IPv_Ty
 Name: CCTV-14, URL: http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://111.43.126.240:9003/hls/27/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: http://ygbh.site/php/bfgd.php?id=132$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-15, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: http://107.174.52.32/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: http://112.27.235.94:8000/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -967,14 +967,14 @@ Name: CCTV-15, URL: http://3501776.xyz:35455/itv/1000000005000265014.m3u8?cdn=ys
 Name: CCTV-15, URL: http://tvbox6.com/tv/bfgd.php?id=133$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15, URL: http://111.43.126.240:9003/hls/28/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: http://ygbh.site/php/bfgd.php?id=133$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: http://107.174.52.32/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: https://yunmei.tv/main/cctv-16.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://111.43.126.240:9003/hls/29/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV-17, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://107.174.52.32/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: https://cc06.tv12.xyz/17.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -985,7 +985,7 @@ Name: CCTV-17, URL: http://tvbox6.com/tv/bfgd.php?id=204$订阅源, IPv_Type: ip
 Name: CCTV-17, URL: https://hls-gateway.vpstv.net/streams/708820.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-17, URL: http://111.43.126.240:9003/hls/30/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://ygbh.site/php/bfgd.php?id=204$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV1, URL: http://107.174.52.32/itv.php?id=CCTV1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://112.27.235.94:8000/hls/1/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://101.23.150.109:9901/tsfile/live/0001_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -999,7 +999,7 @@ Name: CCTV1, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: i
 Name: CCTV1, URL: http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV1, URL: http://111.43.126.240:9003/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV1, URL: http://ygbh.site/php/bfgd.php?id=488$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV1, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV1, URL: http://sh.lnott.top:880/dx01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV1, URL: https://live.tvfix.org/live/cctv1hd/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV2, URL: http://107.174.52.32/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV2, URL: http://112.123.243.37:50085/tsfile/live/0002_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1013,7 +1013,7 @@ Name: CCTV2, URL: http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenliv
 Name: CCTV2, URL: https://hls-gateway.vpstv.net/streams/476881.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV2, URL: http://111.43.126.240:9003/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV2, URL: http://ygbh.site/php/bfgd.php?id=061$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV2, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV2, URL: http://sh.lnott.top:880/dx02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV3, URL: http://107.174.52.32/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV3, URL: http://112.27.235.94:8000/hls/3/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV3, URL: http://112.123.243.37:50085/tsfile/live/0003_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1027,7 +1027,7 @@ Name: CCTV3, URL: http://lu.wqwqwq.sbs/itv/1000000005000265003.m3u8?cdn=ystenliv
 Name: CCTV3, URL: https://hls-gateway.vpstv.net/streams/476883.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV3, URL: http://111.43.126.240:9003/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV3, URL: http://ygbh.site/php/bfgd.php?id=062$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV3, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV3, URL: http://sh.lnott.top:880/dx03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV4, URL: http://107.174.52.32/itv.php?id=CCTV4, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV4, URL: http://112.27.235.94:8000/hls/4/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV4, URL: http://112.123.243.37:50085/tsfile/live/0004_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1041,7 +1041,7 @@ Name: CCTV4, URL: https://hls-gateway.vpstv.net/streams/476884.m3u8$订阅源, I
 Name: CCTV4, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV4, URL: http://111.43.126.240:9003/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV4, URL: http://ygbh.site/php/bfgd.php?id=063$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV4, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV4, URL: http://sh.lnott.top:880/dx04.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV5, URL: http://107.174.52.32/itv.php?id=CCTV5, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: http://112.27.235.94:8000/hls/5/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: http://112.123.243.37:50085/tsfile/live/0005_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1057,7 +1057,7 @@ Name: CCTV5, URL: http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenliv
 Name: CCTV5, URL: https://hls-gateway.vpstv.net/streams/476885.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV5, URL: http://111.43.126.240:9003/hls/17/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: http://ygbh.site/php/bfgd.php?id=064$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV5, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://sh.lnott.top:880/dx05.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV5+, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://107.174.52.32/itv.php?id=CCTV5p, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://112.27.235.94:8000/hls/6/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1071,7 +1071,7 @@ Name: CCTV5+, URL: http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenli
 Name: CCTV5+, URL: http://111.43.126.240:9003/hls/18/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://ygbh.site/php/bfgd.php?id=246$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://cfss.cc/api/ysp/cctv5p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV5+, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV5+, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV6, URL: http://107.174.52.32/itv.php?id=CCTV6, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV6, URL: http://112.27.235.94:8000/hls/7/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV6, URL: http://101.23.150.109:9901/tsfile/live/0006_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1085,7 +1085,7 @@ Name: CCTV6, URL: http://cdn.jdshipin.com:8880/ysp.php?id=cctv6$订阅源, IPv_T
 Name: CCTV6, URL: http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV6, URL: http://111.43.126.240:9003/hls/19/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV6, URL: http://ygbh.site/php/bfgd.php?id=065$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV6, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV6, URL: http://sh.lnott.top:880/dx06.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV7, URL: http://107.174.52.32/itv.php?id=CCTV7, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV7, URL: http://112.27.235.94:8000/hls/8/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV7, URL: http://112.123.243.37:50085/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1098,7 +1098,7 @@ Name: CCTV7, URL: https://hls-gateway.vpstv.net/streams/476891.m3u8$订阅源, I
 Name: CCTV7, URL: https://smart.pendy.dpdns.org/Smart.php$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV7, URL: http://111.43.126.240:9003/hls/20/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV7, URL: http://ygbh.site/php/bfgd.php?id=127$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV7, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV7, URL: http://sh.lnott.top:880/dx07.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV8, URL: http://107.174.52.32/itv.php?id=CCTV8, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV8, URL: http://112.27.235.94:8000/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV8, URL: http://101.23.150.109:9901/tsfile/live/0008_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1112,7 +1112,7 @@ Name: CCTV8, URL: http://lu.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ystenliv
 Name: CCTV8, URL: http://tvbox6.com/tv/bfgd.php?id=066$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV8, URL: http://111.43.126.240:9003/hls/21/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV8, URL: http://ygbh.site/php/bfgd.php?id=066$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV8, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV8, URL: http://sh.lnott.top:880/dx08.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV9, URL: http://107.174.52.32/itv.php?id=CCTV9, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV9, URL: http://112.27.235.94:8000/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV9, URL: http://60.16.0.216:5757/hls/10/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1126,7 +1126,7 @@ Name: CCTV9, URL: http://lu.wqwqwq.sbs/itv/1000000005000265009.m3u8?cdn=ystenliv
 Name: CCTV9, URL: http://tvbox6.com/tv/bfgd.php?id=128$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV9, URL: http://111.43.126.240:9003/hls/22/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV9, URL: http://ygbh.site/php/bfgd.php?id=128$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV9, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV9, URL: http://sh.lnott.top:880/dx09.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV10, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV10, URL: http://107.174.52.32/itv.php?id=CCTV10, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV10, URL: http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1141,7 +1141,7 @@ Name: CCTV10, URL: http://tvbox6.com/tv/bfgd.php?id=129$订阅源, IPv_Type: ipv
 Name: CCTV10, URL: https://hls-gateway.vpstv.net/streams/476896.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV10, URL: http://111.43.126.240:9003/hls/23/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV10, URL: http://ygbh.site/php/bfgd.php?id=129$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV10, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV10, URL: http://sh.lnott.top:880/dx10.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV11, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV11, URL: http://107.174.52.32/itv.php?id=CCTV11, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV11, URL: http://112.27.235.94:8000/hls/12/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1156,7 +1156,7 @@ Name: CCTV11, URL: http://tvbox6.com/tv/bfgd.php?id=130$订阅源, IPv_Type: ipv
 Name: CCTV11, URL: https://hls-gateway.vpstv.net/streams/476897.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV11, URL: http://111.43.126.240:9003/hls/24/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV11, URL: http://ygbh.site/php/bfgd.php?id=130$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV11, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV11, URL: http://sh.lnott.top:880/dx11.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV12, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV12, URL: http://107.174.52.32/itv.php?id=CCTV12, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV12, URL: http://112.27.235.94:8000/hls/13/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1171,12 +1171,12 @@ Name: CCTV12, URL: http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenli
 Name: CCTV12, URL: http://tvbox6.com/tv/bfgd.php?id=131$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV12, URL: http://111.43.126.240:9003/hls/25/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV12, URL: http://ygbh.site/php/bfgd.php?id=131$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV12, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV12, URL: http://sh.lnott.top:880/dx12.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV13, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: http://107.174.52.32/itv.php?id=CCTV13, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: http://112.27.235.94:8000/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: http://60.16.0.216:5757/hls/14/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 246 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 252 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV13, URL: http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: http://101.23.150.109:9901/tsfile/live/0013_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1186,7 +1186,7 @@ Name: CCTV13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 Name: CCTV13, URL: https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV13, URL: http://111.43.126.240:9003/hls/26/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV13, URL: http://ygbh.site/php/bfgd.php?id=067$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV13, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV13, URL: http://sh.lnott.top:880/dx13.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV14, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV14, URL: http://107.174.52.32/itv.php?id=CCTV14, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV14, URL: http://112.27.235.94:8000/hls/15/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1201,7 +1201,7 @@ Name: CCTV14, URL: http://3501776.xyz:35455/gaoma/cctv14.m3u8$订阅源, IPv_Typ
 Name: CCTV14, URL: http://lu.wqwqwq.sbs/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV14, URL: http://111.43.126.240:9003/hls/27/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV14, URL: http://ygbh.site/php/bfgd.php?id=132$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV14, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV14, URL: http://sh.lnott.top:880/dx14.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV15, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV15, URL: http://107.174.52.32/itv.php?id=CCTV15, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV15, URL: http://112.27.235.94:8000/hls/16/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1214,14 +1214,14 @@ Name: CCTV15, URL: http://3501776.xyz:35455/itv/1000000005000265014.m3u8?cdn=yst
 Name: CCTV15, URL: http://tvbox6.com/tv/bfgd.php?id=133$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV15, URL: http://111.43.126.240:9003/hls/28/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV15, URL: http://ygbh.site/php/bfgd.php?id=133$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV15, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV15, URL: http://sh.lnott.top:880/dx15.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV16, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV16, URL: http://107.174.52.32/itv.php?id=CCTV16, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV16, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV16, URL: https://yunmei.tv/main/cctv-16.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV16, URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV16, URL: http://111.43.126.240:9003/hls/29/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV16, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV16, URL: http://sh.lnott.top:880/dx16.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV17, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV17, URL: http://107.174.52.32/itv.php?id=CCTV17, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV17, URL: https://cc06.tv12.xyz/17.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1232,7 +1232,7 @@ Name: CCTV17, URL: http://tvbox6.com/tv/bfgd.php?id=204$订阅源, IPv_Type: ipv
 Name: CCTV17, URL: https://hls-gateway.vpstv.net/streams/708820.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV17, URL: http://111.43.126.240:9003/hls/30/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV17, URL: http://ygbh.site/php/bfgd.php?id=204$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV17, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV17, URL: http://sh.lnott.top:880/dx17.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: CCTV01, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV02, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV03, URL: http://itv.iptv1688.top:2016/itv.php?id=CCTV3, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1251,7 +1251,7 @@ Name: CHC家庭影院, URL: http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源, IPv_
 Name: CHC家庭影院, URL: http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: http://eastscreen.tv/ooooo.php?id=chcjt$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CETV-1, URL: https://cc06.tv12.xyz/23.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CETV-1, URL: http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251004080109c4690aff7cfd475d978a63fbffc156d9&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251004080109&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.88&SecurityKey=20251004080109&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9250c4455a78b73a01a9524522a628df&ddCalcu=f9d2e8502036c0a42425554a27589ba7130a$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CETV-1, URL: http://111.43.126.240:9003/hls/34/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -1283,26 +1283,26 @@ Name: CETV4, URL: http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709
 Name: CETV4, URL: http://111.43.126.240:9003/hls/36/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 文化精品, URL: https://hls-gateway.vpstv.net/streams/708832.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 央视台球, URL: https://hls-gateway.vpstv.net/streams/708855.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 央视台球, URL: http://sh.lnott.top:880/dx82.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 央视台球, URL: http://sh.lnott.top:880/dx82.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 风云音乐, URL: https://hls-gateway.vpstv.net/streams/708858.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 风云音乐, URL: http://sh.lnott.top:880/dx73.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 风云音乐, URL: http://sh.lnott.top:880/dx73.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 第一剧场, URL: https://hls-gateway.vpstv.net/streams/708862.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 第一剧场, URL: http://tl.061833.xyz/tl/null-6$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 第一剧场, URL: https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 风云剧场, URL: https://hls-gateway.vpstv.net/streams/708861.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 风云剧场, URL: http://sh.lnott.top:880/dx94.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 风云剧场, URL: http://sh.lnott.top:880/dx94.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 怀旧剧场, URL: https://cc06.tv12.xyz/52.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 怀旧剧场, URL: https://hls-gateway.vpstv.net/streams/708853.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 怀旧剧场, URL: http://sh.lnott.top:880/dx95.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 怀旧剧场, URL: http://sh.lnott.top:880/dx95.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 女性时尚, URL: https://cc06.tv12.xyz/95.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 高尔夫网球, URL: https://hls-gateway.vpstv.net/streams/708857.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 风云足球, URL: https://hls-gateway.vpstv.net/streams/708859.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 风云足球, URL: https://cc06.tv12.xyz/41.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 风云足球, URL: http://sh.lnott.top:880/dx71.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 风云足球, URL: http://sh.lnott.top:880/dx71.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 电视指南, URL: https://cc06.tv12.xyz/39.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 电视指南, URL: http://ygbh.site/php/bfgd.php?id=164$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 世界地理, URL: https://cc06.tv12.xyz/104.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 世界地理, URL: http://ygbh.site/php/bfgd.php?id=177$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 世界地理, URL: http://sh.lnott.top:880/dx72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 世界地理, URL: http://sh.lnott.top:880/dx72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 兵器科技, URL: https://hls-gateway.vpstv.net/streams/708856.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 兵器科技, URL: http://sh.lnott.top:880/dx81.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 882 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 兵器科技, URL: http://sh.lnott.top:880/dx81.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 437 ms, Speed: 0.00 M/s, Resolution: 1920x1080

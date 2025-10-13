@@ -23,7 +23,6 @@ CCTV-11_戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12_社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12_社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13_新闻,http://112.123.206.32:808/hls/14/index.m3u8
-CCTV-13_新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13_新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14_少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14_少儿,http://sh.lnott.top:880/dx14.m3u8
@@ -55,7 +54,6 @@ CCTV-11HD,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12HD,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12HD,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13HD,http://112.123.206.32:808/hls/14/index.m3u8
-CCTV-13HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14HD,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
@@ -87,7 +85,6 @@ CCTV-11 戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12 社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12 社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13 新闻,http://112.123.206.32:808/hls/14/index.m3u8
-CCTV-13 新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13 新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14 少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14 少儿,http://sh.lnott.top:880/dx14.m3u8
@@ -119,7 +116,6 @@ CCTV-11,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13,http://112.123.206.32:808/hls/14/index.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14,http://sh.lnott.top:880/dx14.m3u8
@@ -169,7 +165,6 @@ CCTV12,http://sh.lnott.top:880/dx12.m3u8
 CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,http://sh.lnott.top:880/dx13.m3u8
 CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
@@ -185,7 +180,6 @@ CCTV17,http://sh.lnott.top:880/dx17.m3u8
 付费频道,#genre#
 央视台球,http://sh.lnott.top:880/dx82.m3u8
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
-第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=13
 风云剧场,http://sh.lnott.top:880/dx94.m3u8
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 风云足球,http://sh.lnott.top:880/dx71.m3u8
@@ -232,6 +226,7 @@ CETV5,url
 中国教育4台,url
 中国教育5台,url
 文化精品,url
+第一剧场,url
 女性时尚,url
 高尔夫网球,url
 电视指南,url
@@ -266,4 +261,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-10-13 03:11:46,http://112.123.206.32:808/hls/1/index.m3u8
+2025-10-14 03:09:40,http://112.123.206.32:808/hls/1/index.m3u8

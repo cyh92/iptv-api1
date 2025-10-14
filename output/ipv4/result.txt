@@ -23,6 +23,7 @@ CCTV-11_戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12_社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12_社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13_新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13_新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13_新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14_少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14_少儿,http://sh.lnott.top:880/dx14.m3u8
@@ -54,6 +55,7 @@ CCTV-11HD,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12HD,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12HD,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13HD,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13HD,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14HD,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14HD,http://sh.lnott.top:880/dx14.m3u8
@@ -85,6 +87,7 @@ CCTV-11 戏曲,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12 社会与法,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12 社会与法,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13 新闻,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13 新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13 新闻,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14 少儿,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14 少儿,http://sh.lnott.top:880/dx14.m3u8
@@ -116,6 +119,7 @@ CCTV-11,http://sh.lnott.top:880/dx11.m3u8
 CCTV-12,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-12,http://sh.lnott.top:880/dx12.m3u8
 CCTV-13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://112.123.206.32:808/hls/15/index.m3u8
 CCTV-14,http://sh.lnott.top:880/dx14.m3u8
@@ -165,6 +169,7 @@ CCTV12,http://sh.lnott.top:880/dx12.m3u8
 CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
 CCTV13,http://112.123.206.32:808/hls/14/index.m3u8
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,http://sh.lnott.top:880/dx13.m3u8
 CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8
 CCTV14,http://112.123.206.32:808/hls/15/index.m3u8
@@ -261,4 +266,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-10-14 03:09:40,http://112.123.206.32:808/hls/1/index.m3u8
+2025-10-15 03:10:08,http://112.123.206.32:808/hls/1/index.m3u8

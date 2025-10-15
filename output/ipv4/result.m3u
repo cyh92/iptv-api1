@@ -367,6 +367,8 @@ http://sh.lnott.top:880/dx17.m3u8
 http://sh.lnott.top:880/dx82.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="付费频道",风云音乐
 http://sh.lnott.top:880/dx73.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="付费频道",第一剧场
+http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="付费频道",风云剧场
 http://sh.lnott.top:880/dx94.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="付费频道",怀旧剧场
@@ -451,8 +453,6 @@ url
 url
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="🈳无结果频道",文化精品
 url
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="🈳无结果频道",第一剧场
-url
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="🈳无结果频道",女性时尚
 url
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高尔夫网球.png" group-title="🈳无结果频道",高尔夫网球
@@ -517,5 +517,5 @@ url
 url
 #EXTINF:-1 tvg-name="CCTV17咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17咪咕.png" group-title="🈳无结果频道",CCTV-17咪咕
 url
-#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🕘️更新时间",2025-10-15 03:10:08
+#EXTINF:-1 tvg-name="港台电视33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/港台电视33.png" group-title="🕘️更新时间",2025-10-16 03:10:24
 http://112.123.206.32:808/hls/1/index.m3u8

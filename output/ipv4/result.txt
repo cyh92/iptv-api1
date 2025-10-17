@@ -185,7 +185,6 @@ CCTV17,http://sh.lnott.top:880/dx17.m3u8
 付费频道,#genre#
 央视台球,http://sh.lnott.top:880/dx82.m3u8
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
-第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=13
 风云剧场,http://sh.lnott.top:880/dx94.m3u8
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 风云足球,http://sh.lnott.top:880/dx71.m3u8
@@ -232,6 +231,7 @@ CETV5,url
 中国教育4台,url
 中国教育5台,url
 文化精品,url
+第一剧场,url
 女性时尚,url
 高尔夫网球,url
 电视指南,url
@@ -266,4 +266,4 @@ CCTV-16咪咕,url
 CCTV-17咪咕,url
 
 🕘️更新时间,#genre#
-2025-10-17 03:11:42,http://112.123.206.32:808/hls/1/index.m3u8
+2025-10-18 03:10:33,http://112.123.206.32:808/hls/1/index.m3u8
